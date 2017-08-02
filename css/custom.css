@@ -3,6 +3,10 @@ a {
     text-decoration: none;
 }
 
+.text-primary {
+    color: rgba(22, 169, 219, 1);
+}
+
 .fullscreen-nav-container {
   background: rgba(22, 169, 219, 1);
 }

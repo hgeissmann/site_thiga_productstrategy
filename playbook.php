@@ -52,7 +52,7 @@
                                 <li>
                                     <div class="title">
                                         <i class="icon icon-trophy"></i>
-                                        <span><strong>La transparence</span>
+                                        <span><strong>Nous sommes bienveillants</span>
                                     </div>
                                     
                                     <div class="text-content">
@@ -65,7 +65,7 @@
                                 <li>
                                     <div class="title">
                                         <i class="icon icon-trophy"></i>
-                                        <span><strong>L'esprit d'équipe</span>
+                                        <span><strong>Nous sommes exigeants</span>
                                     </div>
                                     
                                     <div class="text-content">
@@ -78,7 +78,7 @@
                                 <li>
                                     <div class="title">
                                         <i class="icon icon-trophy"></i>
-                                        <span><strong>La combativité</strong></span>
+                                        <span><strong>Nous sommes des leaders de pensée</strong></span>
                                     </div>
                                     
                                     <div class="text-content">
@@ -91,7 +91,7 @@
                                 <li>
                                     <div class="title">
                                         <i class="icon icon-trophy"></i>
-                                        <span><strong>L'esprit entrepreneurial</strong></span>
+                                        <span><strong>Nous avons l'esprit entrepreneurial</strong></span>
                                     </div>
                                     
                                     <div class="text-content">
@@ -100,18 +100,7 @@
                                         </p>
                                     </div>
                                 </li>
-                                <li>
-                                    <div class="title">
-                                        <i class="icon icon-trophy"></i>
-                                        <span><strong>L'amélioration continue</strong></span>
-                                    </div>
-                                    
-                                    <div class="text-content">
-                                        <p>
-                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-                                        </p>
-                                    </div>
-                                </li>
+                            
                             </ul>
                         </div>
                     </div>

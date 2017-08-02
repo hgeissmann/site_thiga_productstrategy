@@ -31,7 +31,7 @@
                         <div class="col-sm-12">
                             <span class="text-white alt-font">OFFRES</span>
                             <h1 class="text-white">Optimisation produit</h1>
-                            <p class="text-white lead">"La qualité et la performance de notre Produit sont décevantes. Nous aimerions comprendre ce qui ne fonctionne pas et identifier les pistes d’amélioration prioritaires"</p>
+                            <p class="text-white lead"><i>"La qualité et la performance de notre Produit sont décevantes. Nous aimerions comprendre ce qui ne fonctionne pas et identifier les pistes d’amélioration prioritaires"</i></p>
                         </div>
                     </div>
                 </div>
