@@ -108,7 +108,7 @@
 									<a href="offre-designsprint.php"><i class="icon icon-desktop"></i></a>
 								</div>
 								<div class="pull-right">
-									<h5><a href="offre-designsprint.php">Design Sprint</a></h5>
+									<h5><a href="offre-designsprint.php">Design Sprint et Innovation Lab</a></h5>
 									<p>
 										Conduire des Design Sprints pour résoudre par l'UX les problématiques fonctionnelles les plus complexes. 
 									</p>
