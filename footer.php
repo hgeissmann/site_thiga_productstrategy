@@ -12,7 +12,7 @@
 						</div>
 						
 						<div class="col-sm-3">
-							<h1>Nos marques</h1>
+							<h1>Nos tribues et nos marques</h1>
 	
 								<a href="http://thiga.fr"> <img class="logo-foot" src="/img/productstrategy-min.png" ></a>
 								<a href="http://thiga.fr"><img class="logo-foot2" src="/img/productownership-min.png"><br></a>

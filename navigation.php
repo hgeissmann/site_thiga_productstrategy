@@ -29,13 +29,14 @@
 								<li><a href="#">Clients</a></li>
 								<li class="has-dropdown"><a href="#">Offres</a>
 									<ul class="subnav">
-										<li><a href="offre-ideeMVP.php">De l'idée au MVP</a></li>
-										<li><a href="offre-optimisation.php">Optimisation produit</a></li>
-										<li><a href="offre-organisation.php">Organisation produit</a></li>
+										<li><a href="offre-idee-MVP.php">De l'idée au MVP</a></li>
+										<li><a href="offre-optimisation-produit.php">Optimisation produit</a></li>
+										<li><a href="offre-organisation-produit.php">Organisation produit</a></li>
 										<li><a href="offre-designsprint.php">Design Sprint</a></li>
 									</ul>
 								</li>
 								<li><a href="publications.php">Publications</a></li>
+								<li><a href="formations.php">Formations</a></li>
 								<li><a href="equipe.php">Équipe</a></li>
 								<li><a href="playbook.php">Playbook</a></li>
 							</ul>
