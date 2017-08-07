@@ -1,0 +1,4 @@
+#AuthName "Page d'administration protégée"
+#AuthType Basic
+#AuthUserFile "/home/thiga/site_productstrategy/.htpasswd"
+#Require valid-user
